@@ -1,0 +1,5 @@
+Fix GitHub URLs - update yourusername to nirutyodjai
+
+- Updated setup_git.sh with correct repository URL
+- Fixed PRIVATE_REPO_SETUP.md with proper username
+- Ensures all documentation points to correct repository
