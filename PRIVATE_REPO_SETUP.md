@@ -21,7 +21,7 @@
 ### 2. Push to Private Repository
 ```bash
 # Add private remote
-git remote add private https://github.com/yourusername/parallelmind-engine-private.git
+git remote add private https://github.com/nirutyodjai/parallelmind-engine-private.git
 
 # Push to private repo
 git push -u private main

@@ -126,8 +126,8 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 ## 📞 Support
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/parallelmind-engine/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/parallelmind-engine/discussions)
+- **Issues**: [GitHub Issues](https://github.com/nirutyodjai/parallelmind-engine/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/nirutyodjai/parallelmind-engine/discussions)
 
 ---
 
