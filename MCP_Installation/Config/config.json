@@ -1,0 +1,24 @@
+{
+  "mcp_systems": {
+    "fast_coding": {
+      "port": 8574,
+      "name": "Fast Coding MCP",
+      "description": "Rapid Development System"
+    },
+    "sequential_thinking": {
+      "port": 8575,
+      "name": "Sequential Thinking MCP",
+      "description": "Logical Processing System"
+    },
+    "neuroflow_logs": {
+      "port": 8573,
+      "name": "Neuroflow Logs MCP",
+      "description": "Advanced Logging System"
+    }
+  },
+  "installation": {
+    "version": "1.0.0",
+    "created": "2025-11-02",
+    "author": "MCP Development Team"
+  }
+}
